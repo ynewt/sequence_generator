@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+
+# Downloaded and tokenized corpora: recreate with prepare_data.py
+data/
